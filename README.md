@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ Hello, this is Oriol ✨
+🌿 Full Stack Dev in Javascript Ecosystem (TS, React, Angular, Node, Express)
+🌿 Experienced in Graphic Design (Web Design, UI/UX, Brand identity, Typography)
+🌿 Based in Barcelona
