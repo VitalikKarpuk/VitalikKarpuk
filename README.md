@@ -1,21 +1,10 @@
-### Hi there 👋
+### ✨ Hello, this is Vitali ✨
 
-<!--
-**VitalikKarpuk/VitalikKarpuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:herb: Front-end Dev in Javascript Ecosystem (TS, React, NextJs)<br>
+:herb: Based in Minsk<br>
 
-Here are some ideas to get you started:
+## About me
+:dragon: I am a skilled developer who thrives on collaborating with innovative designers and bringing their visionary ideas to life. While my expertise lies primarily in development, I excel at seamlessly integrating design elements into the projects I work on. Let's team up to transform your ideas into functional and captivating digital experiences! <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-✨ Hello, this is Oriol ✨
-🌿 Full Stack Dev in Javascript Ecosystem (TS, React, Angular, Node, Express)
-🌿 Experienced in Graphic Design (Web Design, UI/UX, Brand identity, Typography)
-🌿 Based in Barcelona
+## Tech
+:zap: I have worked mostly with React, NextJs, Redux, CSS, Headless CMS.<br>
