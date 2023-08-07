@@ -1,3 +1,6 @@
+<img src="https://github.com/VitaliKarpuk/VitaliKarpuk/frontend-developer.giff" width="100%">
+
+
 ### ✨ Hello, this is Vitali ✨
 
 :herb: Front-end Dev in Javascript Ecosystem (TS, React, NextJs)<br>
@@ -8,3 +11,5 @@
 
 ## Tech
 :zap: I have worked mostly with React, NextJs, Redux, CSS, Headless CMS.<br>
+
+frontend-developer.gif
