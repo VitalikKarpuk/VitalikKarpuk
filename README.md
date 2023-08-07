@@ -11,4 +11,3 @@
 ## Tech
 :zap: I have worked mostly with React, NextJs, Redux, CSS, Headless CMS.<br>
 
-frontend-developer.gif
