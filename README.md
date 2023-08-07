@@ -1,5 +1,4 @@
-<img src="https://github.com/VitaliKarpuk/VitaliKarpuk/frontend-developer.giff" width="100%">
-
+<img src="https://github.com/VitalikKarpuk/VitalikKarpuk/blob/main/frontend-developer.gif" width="100%">
 
 ### ✨ Hello, this is Vitali ✨
 
